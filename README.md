@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/ittzkaguya" target="_blank">
+  <a href="https://youtube.com/itzkaguya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/hiratazx" target="_blank">
