@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/jbj0wZlaPyMAAAAC/kaguya-shinomiya-kaguya-sama.gif" width="100%" style="object-fit: cover; height: 180px; border-radius: 10px;">
-
-  <h1 align="center">Hi there, I'm I Putu Arya Sukanadi 👋</h1>
+  <h1 align="center">Hi there 👋</h1>
   
   <p align="center">
     <b>Android Enthusiast</b> • <b>Kernel Developer</b> • <b>Student</b>
@@ -35,8 +33,7 @@ I'm currently studying at **Institut Teknologi dan Bisnis STIKOM Bali**. My pass
 | **Languages** | **Systems & Tools** |
 |:---:|:---:|
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Makefile](https://img.shields.io/badge/Makefile-%232C3E50.svg?style=for-the-badge&logo=gnu-make&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) ![TWRP](https://img.shields.io/badge/TWRP-000000?style=for-the-badge&logo=twrp&logoColor=white) |
-
+| ![Makefile](https://img.shields.io/badge/Makefile-%232C3E50.svg?style=for-the-badge&logo=gnu-make&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 </div>
 
 ---
