@@ -1,45 +1,55 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiratazx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiratazx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://media1.tenor.com/m/jbj0wZlaPyMAAAAC/kaguya-shinomiya-kaguya-sama.gif" width="100%" style="object-fit: cover; height: 180px; border-radius: 10px;">
+
+  <h1 align="center">Hi there, I'm I Putu Arya Sukanadi 👋</h1>
+  
+  <p align="center">
+    <b>Android Enthusiast</b> • <b>Kernel Developer</b> • <b>Student</b>
+  </p>
+
+  <p align="center">
+    <a href="https://t.me/hiratazx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://linktr.ee/ItzKaguya"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+    <a href="https://anilist.co/user/hiratazx"><img src="https://img.shields.io/badge/Anilist-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="Anilist"/></a>
+  </p>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/jbj0wZlaPyMAAAAC/kaguya-shinomiya-kaguya-sama.gif"  />
+### 👨‍💻 **About Me**
 
-###
+I'm currently studying at **Institut Teknologi dan Bisnis STIKOM Bali**. My passion lies in the deep internals of the Android ecosystem, specifically **Kernel Development** and **Device Trees**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+- 🔭 I’m currently working on **Samsung Exynos 9820 Kernels** and **GSI Patches**.
+- 🤝 I’m associated with **@ShirayukiProject** & **@yukiprjkt**.
+- 🌱 Learning more about **Embedded Systems** and **Linux**.
+- 📍 Based in **Indonesia**.
+
+---
+
+### 🛠 **Tech Stack**
+
+<div align="center">
+
+| **Languages** | **Systems & Tools** |
+|:---:|:---:|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Makefile](https://img.shields.io/badge/Makefile-%232C3E50.svg?style=for-the-badge&logo=gnu-make&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) ![TWRP](https://img.shields.io/badge/TWRP-000000?style=for-the-badge&logo=twrp&logoColor=white) |
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://youtube.com/ittzkaguya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/hiratazx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/invite/dqBjqdVyPH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:hiratazx@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiratazx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiratazx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
-###
+---
 
-<br clear="both">
-
-###
+<div align="center">
+  <sub><i>"O Kawaii Koto"</i> — Kaguya Shinomiya</sub>
+</div>
